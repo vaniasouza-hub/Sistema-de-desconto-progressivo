@@ -15,9 +15,9 @@ Este projeto consiste em uma ferramenta de linha de comando (CLI) que recebe o v
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 
-- **[Python 3](https://www.python.org/)** — Linguagem de programação utilizada na construção da lógica.
-- **[VS Code](https://code.visualstudio.com/)** — Ambiente de desenvolvimento integrado (IDE) utilizado para escrita e depuração do código.
-- **[Git](https://git-scm.com/) & [GitHub](https://github.com/)** — Ferramentas para controle de versão e hospedagem do código-fonte. |
+- **[Python 3](https://www.python.org/)**
+- **[VS Code](https://code.visualstudio.com/)**
+- **[Git](https://git-scm.com/) & [GitHub](https://github.com/)** 
 
 
 ---
