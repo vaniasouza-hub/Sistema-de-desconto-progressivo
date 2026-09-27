@@ -1,4 +1,4 @@
-Markdown
+
 # 🛒 Sistema de Desconto Progressivo
 
 Um script simples em Python desenvolvido para calcular o valor final de uma compra aplicando regras de **desconto progressivo** com base no valor total gasto.
