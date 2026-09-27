@@ -12,10 +12,9 @@ Este projeto consiste em uma ferramenta de linha de comando (CLI) que recebe o v
 - O valor abatido em reais (R$).
 - O valor final atualizado a pagar.
 - 
-- ## 🛠️ Tecnologias e Ferramentas Utilizadas
 
-| Tecnologia / Ferramenta
-
+## 🛠️ Tecnologias e Ferramentas Utilizada
+| :--- | :--- |
 | **Python 3** | Linguagem de programação principal. |
 | **VS Code** | Editor de código utilizado no desenvolvimento. |
 | **GitHub** | Plataforma de hospedagem do repositório e controle de versão. |
