@@ -13,11 +13,11 @@ Este projeto consiste em uma ferramenta de linha de comando (CLI) que recebe o v
 - O valor final atualizado a pagar.
 - 
 
-## 🛠️ Tecnologias e Ferramentas Utilizada
-| :--- | :--- |
-| **Python 3** | Linguagem de programação principal. |
-| **VS Code** | Editor de código utilizado no desenvolvimento. |
-| **GitHub** | Plataforma de hospedagem do repositório e controle de versão. |
+## 🛠️ Tecnologias e Ferramentas Utilizadas
+
+- **[Python 3](https://www.python.org/)** — Linguagem de programação utilizada na construção da lógica.
+- **[VS Code](https://code.visualstudio.com/)** — Ambiente de desenvolvimento integrado (IDE) utilizado para escrita e depuração do código.
+- **[Git](https://git-scm.com/) & [GitHub](https://github.com/)** — Ferramentas para controle de versão e hospedagem do código-fonte. |
 
 
 ---
